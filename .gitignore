@@ -1,0 +1,20 @@
+/venv
+/logs
+
+# Visual Studio Code # 
+.vscode/* 
+!.vscode/settings.json 
+!.vscode/tasks.json 
+!.vscode/launch.json 
+!.vscode/extensions.json 
+.history
+
+**/migrations
+*.DS_Store
+**/__pycache__
+**/.DS_Store
+
+*.pyc
+__pycache__
+
+.idea/*
